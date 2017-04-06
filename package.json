@@ -1,0 +1,26 @@
+{
+  "name": "dixby",
+  "version": "1.0.0",
+  "description": "dixby bot for omdb, spotify, & twitter",
+  "main": "dixby.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTDenison/dixby.git"
+  },
+  "author": "Josh D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JTDenison/dixby/issues"
+  },
+  "homepage": "https://github.com/JTDenison/dixby#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "omdb": "^0.7.0",
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0"
+  }
+}
